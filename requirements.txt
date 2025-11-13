@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+transformers
+sentencepiece
+pyttsx3
+soundfile
+SpeechRecognition
